@@ -108,6 +108,7 @@ dist
 
 # Sensitive data
 src/config
+.env
 
 # Temp files
 tmp
